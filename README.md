@@ -3,4 +3,4 @@ Modernized and Updated Standard Code for Information Interchange (Probably needs
 
 A modern replacement for ASCII that no one asked for...
 
-![MUSCII](MUSCII.png)
+![MUSCII](images/MUSCII.png)
