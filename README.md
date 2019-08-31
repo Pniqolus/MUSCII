@@ -13,6 +13,5 @@ A modern alternative/replacement for ASCII that no one asked for...
  * The control characters are directly opposite of the first 8 decimal numbers (0-7).
  * All base conversions up to base 36 are trivial, requiring only a cast operation.
 
-
-
+---
 Please give a star if you like the idea... Please...
